@@ -1,0 +1,22 @@
+.title-blog{
+    font-size:33px;
+}
+.content{
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.blog-part{
+    width: 500px;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+}
+.date{
+    font-size: 12px; 
+    color:grey; 
+    text-decoration: underline;
+}
